@@ -1,11 +1,30 @@
 <html>
 
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"
-        onload="renderMathInElement(document.body, {delimiters: [{left: '$', right: '$', display: false}, {left: '$$', right: '$$', display: true}]});">
-</script>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>LaTeX Test</title>
+  <!-- 引入 MathJax v3 -->
+  <script>
+    window.MathJax = {
+      tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+    };
+  </script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+  <p>
+    这是行内公式：$\mathbb{Z}_2\mathbb{Z}_4$-additive quasi-cyclic codes
+  </p>
+  <p>
+    这是块级公式：
+    $$\mathbb{Z}_2\mathbb{Z}_4$$
+  </p>
+</body>
+</html>
+
 
     
 <head>
