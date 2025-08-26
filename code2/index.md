@@ -532,7 +532,7 @@ Generator matrix:
 
 ———————————————————————  
 
-### Quaternary linear $[n,n-3]$ codes with one-dimensional Hermitian hull for $6≤n≤19$.
+### Quaternary linear [n,n-3] codes with one-dimensional Hermitian hull for 6≤n≤19.
 
 [6, 3, 3] Linear Code over GF(2^2)  
 Generator matrix:  
