@@ -711,7 +711,7 @@ Generator matrix:
 
 ———————————————————————  
 
-### Quaternary linear $[n,3]$ codes with one-dimensional Hermitian hull for $n≥13$.
+### Quaternary linear [n,3] codes with one-dimensional Hermitian hull for n≥13.
 
 [13, 3, 9] Linear Code over GF(2^2)  
 Generator matrix:  
