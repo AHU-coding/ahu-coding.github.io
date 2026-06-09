@@ -1,4 +1,4 @@
-Database for the paper “Shitao Li, Minjia Shi, Tor Helleseth, San Ling, Nonexistence of several infinite families of binary self-orthogonal codes, IEEE Transactions on Information Theory, 2025.”
+Database for the paper “Shitao Li, Minjia Shi, Tor Helleseth, San Ling, Nonexistence of several infinite families of binary self-orthogonal codes, IEEE Transactions on Information Theory, 2026, 72(1): 285-297.”
 
 [50, 8, 22] Linear Code over GF(2)  
 Generator matrix:  
